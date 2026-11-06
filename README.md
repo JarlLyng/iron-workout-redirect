@@ -32,3 +32,7 @@ Keep `docs/index.html` and `docs/404.html` identical, and change them together. 
 publishes the change.
 
 The app itself lives in [JarlLyng/Anvil-Workout](https://github.com/JarlLyng/Anvil-Workout).
+
+## License
+
+[MIT](LICENSE). It covers the code, not the Anvil Workout name or brand.
